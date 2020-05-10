@@ -73,7 +73,7 @@ user_groups:
 I am a Research Scientist in the Computer Vision and Artificial Intelligence Group at GE Research.
 My goal is to reconciliate the disparate areas of artificial intelligence - particularly symbolic, logical, bayesian and connectionist approaches to come up with key theoretical results and build robust solutions for hard problems.
 
-My current work involves research in artificial intelligence with a focus on image analytics and computer vision . I have been fortunate to have had extensive academic and industrial exposure in developing research prototypes at RPI, IBM Research and GE Global Research.
+My current work involves research in artificial intelligence with a focus on image analytics and computer vision . I have been fortunate to have had extensive academic and industrial exposure in developing research prototypes at RPI, IBM Research and GE Research.
 
 At GE Research, I work on developing research solutions for fundamental research problems in artificial intelligence including the abstract grounding problem in AI using logical and symbolic methods, to bespoke problems in computer vision with bayesian and connectionist based statistical methods.
 
