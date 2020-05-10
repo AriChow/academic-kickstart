@@ -34,7 +34,7 @@ education:
     institution: Rensselaer Polytechnic Institute
     year: 2016
   - course: B.E. in Electronics and Telecommunication Engineering
-    institution: Rensselaer Polytechnic Institute
+    institution: Jadavpur University
     year: 2013
 
 # Social/Academic Networking
