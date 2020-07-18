@@ -70,13 +70,16 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Research Scientist in the Computer Vision and Artificial Intelligence Group at GE Research.
-My goal is to reconciliate the disparate areas of artificial intelligence - particularly symbolic, logical, bayesian and connectionist approaches to come up with key theoretical results and build robust solutions for hard problems.
+Aritra is a Research Scientist in the Computer Vision and Artificial Intelligence Group at GE Research.
 
-My current work involves research in artificial intelligence with a focus on image analytics and computer vision . I have been fortunate to have had extensive academic and industrial exposure in developing research prototypes at RPI, IBM Research and GE Research.
+He is responsible for working on computer vision problems across different businesses including Aviation, Healthcare, Power, Transportation (currently a part of Wabtec). He is also an integral part of GE Research's external portfolio. In this role, Aritra is actively pursuing government funding opportunities by working on fundamental research problems in AI and computer vision leading to publications and grant proposals. These problems include the abstract grounding problem in AI using logical and symbolic methods, to bespoke problems in computer vision.
 
-At GE Research, I work on developing research solutions for fundamental research problems in artificial intelligence including the abstract grounding problem in AI using logical and symbolic methods, to bespoke problems in computer vision with bayesian and connectionist based statistical methods.
+His research interests lie in the reconciliation of the disparate areas of artificial intelligence - particularly symbolic, logical, bayesian and connectionist approaches.
 
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His current work involves research in artificial intelligence with a focus on image analytics and computer vision. He has significant extensive academic and industrial exposure in developing research prototypes at RPI, IBM Research and GE Research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+Prior to joining GE Research, he was at GE Healthcare working on developing deep learning solutions for specific healthcare problems. Aritra completed research internships at GE Research and IBM Research before joining the organization as a full time researcher.
+
+Aritra has published several papers in top conferences and journals in AI and computer vision, and has been involved with patenting novel technology in Healthcare, Transportation, Aviation and Power. Aritra has a Ph.D. and M.S. in Computer Science from Rensselaer Polytechnic Institute, and a B.E. in Electronics and Telecommunication Engineering from Jadavpur University, India.
+
+
