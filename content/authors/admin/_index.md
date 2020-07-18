@@ -80,6 +80,6 @@ His current work involves research in artificial intelligence with a focus on im
 
 Prior to joining GE Research, he was at GE Healthcare working on developing deep learning solutions for specific healthcare problems. Aritra completed research internships at GE Research and IBM Research before joining the organization as a full time researcher.
 
-Aritra has published several papers in top conferences and journals in AI and computer vision, and has been involved with patenting novel technology in Healthcare, Transportation, Aviation and Power. Aritra has a Ph.D. and M.S. in Computer Science from Rensselaer Polytechnic Institute, and a B.E. in Electronics and Telecommunication Engineering from Jadavpur University, India.
+Aritra has published several papers in top international conferences and journals in AI, computer vision and medical imaging, and has been involved with patenting novel technology in Healthcare, Transportation, Aviation and Power. Aritra has a Ph.D. and M.S. in Computer Science from Rensselaer Polytechnic Institute, and a B.E. in Electronics and Telecommunication Engineering from Jadavpur University, India.
 
 
