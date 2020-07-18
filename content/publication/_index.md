@@ -10,7 +10,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  featured: True
   caption: "ESCELL: Emergent Symbolic Cellular Language"
   image: "static/files/ESCELL.png"
 ---
