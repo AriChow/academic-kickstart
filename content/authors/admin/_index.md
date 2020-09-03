@@ -15,7 +15,7 @@ role: Research Scientist in Artificial Intelligence and Computer Vision
 # Organizations/Affiliations
 organizations:
 - name: GE Research
-  url: "https://www.ge.com/research/"
+  url: "https://www.ge.com/research/people/aritra-chowdhury"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
